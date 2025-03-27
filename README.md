@@ -10,6 +10,9 @@ This project aims to analyze healthcare data to predict patient treatment outcom
 - Use **XGBoost** as the classifier for its efficiency in handling imbalanced data and feature importance.
 
 ## Dataset
+
+Source - https://archive.ics.uci.edu/dataset/890/aids%2Bclinical%2Btrials%2Bgroup%2Bstudy%2B175
+
 The dataset used in this project is based on a health dataset where each record represents a patient, and the columns include information such as:
 - `time`: Time spent in the study (in days)
 - `trt`: Treatment indicator (1 = treated, 0 = control)
